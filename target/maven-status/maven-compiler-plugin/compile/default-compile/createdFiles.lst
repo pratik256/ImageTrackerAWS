@@ -1,0 +1,12 @@
+com\imagetracker\dto\ResultDTO.class
+com\imagetracker\controller\SystemController.class
+com\imagetracker\dto\ConnectionDao.class
+com\imagetracker\util\FileNotFoundException.class
+com\imagetracker\util\MvcConfig.class
+com\imagetracker\service\CommonConstants.class
+com\imagetracker\api\ImageTrackerApplication.class
+com\imagetracker\util\FileStorageProperties.class
+com\imagetracker\service\SystemServiceImpl.class
+com\imagetracker\bean\File.class
+com\imagetracker\service\SystemService.class
+com\imagetracker\service\CommonService.class
